@@ -1,4 +1,5 @@
 #include <iostream>
+//in not working, double check Makefile and CMakeLists.txt
 #include <SDL.h>
 
 int main() {
