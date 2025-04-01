@@ -1,5 +1,5 @@
 # How to Compile
-:- Microsoft Windows, 
+Microsoft Windows, 
 macOS, 
 Linux 
 
